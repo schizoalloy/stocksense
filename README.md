@@ -183,4 +183,4 @@ MIT — see [LICENSE](LICENSE).
 
 Built by Muhammad Ali and Eunhye Oh for UMHackathon, April 2026.
 
-Powered by [n8n](https://n8n.io), [ILMU](https://ilmu.ai), [SerpApi](https://serpapi.com), and a lot of coffee.
+Powered by [n8n](https://n8n.io), [ILMU](https://ilmu.ai), [SerpApi](https://serpapi.com), and a lot of GLM 5.1 tokens.
