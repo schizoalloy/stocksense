@@ -3,9 +3,9 @@
 > **Supply-chain autopilot for retail.** Forecasts demand, contacts suppliers, discovers new sourcing leads — all automated.
 
 ![Status](https://img.shields.io/badge/status-hackathon_demo-e8a857)
-  ![Stack](https://img.shields.io/badge/frontend-Next.js_15-000)
-  ![Backend](https://img.shields.io/badge/backend-n8n-ea4b71)
-  ![LLM](https://img.shields.io/badge/LLM-ILMU_GLM--5.1-7ba86b)
+        ![Stack](https://img.shields.io/badge/frontend-Next.js_15-000)
+        ![Backend](https://img.shields.io/badge/backend-n8n-ea4b71)
+        ![LLM](https://img.shields.io/badge/LLM-ILMU_GLM--5.1-7ba86b)
 
 ![StockSense Dashboard](docs/screenshots/dashboard.png)
 
