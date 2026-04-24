@@ -181,6 +181,6 @@ MIT — see [LICENSE](LICENSE).
 
 ## Credits
 
-Built by [your name] for [hackathon name], April 2026.
+Built by Muhammad Ali and Eunhye Oh for UMHackathon, April 2026.
 
 Powered by [n8n](https://n8n.io), [ILMU](https://ilmu.ai), [SerpApi](https://serpapi.com), and a lot of coffee.
